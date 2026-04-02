@@ -7,9 +7,9 @@ Final year Data Science student at BI Norwegian Business School,
 combining academic work with hands-on industry experience in data engineering,
 knowledge graphs, and AI-powered pipelines.
 
-- 🎓 BSc Data Science — BI Norwegian Business School, Oslo
+- 🎓 BSc Data Science - BI Norwegian Business School, Oslo
 - 🏢 Data Engineering Intern @ Sunstone Institute, Oslo
-- 🤝 Volunteer @ Røde Kors — Digital assistance service
+- 🤝 Volunteer @ Røde Kors - Digital assistance service
 - 🏛️ Class Representative & GM of Data Science Academic Association (DSB)
 
 ## Tech Stack
@@ -37,9 +37,9 @@ knowledge graphs, and AI-powered pipelines.
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kesara03)
 [![Portfolio](https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white)](https://kesara.no)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kesararathnasiri@gmail.com)
 
 ---
 
