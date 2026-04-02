@@ -9,6 +9,7 @@ knowledge graphs, and AI-powered pipelines.
 
 - 🎓 BSc Data Science - BI Norwegian Business School, Oslo
 - 🏢 Data Engineering Intern @ Sunstone Institute, Oslo
+- 🔬 Data Science Research Assistant @ BI — Joint project with Georgetown University & Johns Hopkins University
 - 🤝 Volunteer @ Røde Kors - Digital assistance service
 - 🏛️ Class Representative & GM of Data Science Academic Association (DSB)
 
