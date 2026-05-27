@@ -1,4 +1,4 @@
-# Hi, I'm Kesara 👋
+# Hi, I'm Kesara
 **Data Scientist & Data Engineer** | Building intelligent data systems
 
 ## About Me
