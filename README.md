@@ -1,32 +1,6 @@
 # Hi, I'm Kesara
 **Data Scientist & Data Engineer** | Building intelligent data systems
 
-## About Me
-
-Final year Data Science student at BI Norwegian Business School,
-combining academic work with hands-on industry experience in data engineering,
-knowledge graphs, and AI-powered pipelines.
-
-- 🎓 BSc Data Science - BI Norwegian Business School, Oslo
-- 🏢 Data Engineering Intern @ Sunstone Institute, Oslo
-- 🔬 Data Science Research Assistant @ BI - Joint project with Georgetown University & Johns Hopkins University
-- 🤝 Volunteer @ Røde Kors - Digital assistance service
-- 🏛️ Class Representative & GM of Data Science Academic Association (DSB)
-
-## Tech Stack
-
-**Cloud, IaC & Containers:** AWS, Azure, GCP, Docker, Kubernetes
-
-**CI/CD & Quality:** Jenkins, GitHub Actions, Git, GitHub, GitLab
-
-**Backend & Database:** Java, Node.js, Express.js, SQL, MongoDB
-
-**Frontend & Protocols:** JavaScript, React, REST, GraphQL, YAML
-
-**System, Build & Observability:** Linux, Bash, Nginx, VIM, Maven, Gradle, NPM, Prometheus, Grafana
-
-**Soft Skills:** Agile, Project Management, Teamwork, Leadership, Continuous Learning
-
 ## GitHub Stats
 
 <div align="center">
